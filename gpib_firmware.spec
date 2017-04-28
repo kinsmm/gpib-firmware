@@ -10,9 +10,6 @@ License:      Non-free
 Packager:     Vladislav Zavjalov <slazav@altlinux.org>
 Source:       %name-%version.tar
 
-BuildPreReq:  kernel-headers-modules-un-def
-Requires:     linux-gpib
-
 %description
 Firmware for GPIB (IEEE 488) hardware.
 
